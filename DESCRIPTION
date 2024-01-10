@@ -1,0 +1,12 @@
+Package: swagger
+Title: R Package Client for Demo Client for Passmeister Apple Wallet and Google Wallet API
+Version: 1.0.0
+Authors@R: person("Swagger Codegen community", email = "apiteam@swagger.io", role = c("aut", "cre"))
+Description: [www.passmeister.com](https://www.passmeister.com).
+Depends: R (>= 3.3.3)
+Encoding: UTF-8
+License: Unlicense
+LazyData: true
+Suggests: testthat
+Imports: jsonlite, httr, R6
+RoxygenNote: 6.0.1.9000
